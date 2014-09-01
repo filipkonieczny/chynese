@@ -1,9 +1,58 @@
 {
     "characters": [
         {
+        	"id": 1,
+            "character": "你",
+            "pinyin": "nǐ",
+            "meanings": ["you"]
+        },
+        {
+        	"id": 2,
+            "character": "好",
+            "pinyin": "hǎo",
+            "meanings": ["good", "well", "fine", "OK"]
+        },
+        {
+        	"id": 3,
             "character": "你好",
             "pinyin": "nǐ hǎo",
             "meanings": ["hi", "hello"]
+        },
+        {
+        	"id": 4,
+            "character": "吗",
+            "pinyin": "ma",
+            "meanings": ["particle used for a question expecting a yes-no answer"]
+        },
+        {
+        	"id": 5,
+            "character": "你好吗",
+            "pinyin": "nǐ hǎo ma?",
+            "meanings": ["how are you?"]
+        },
+        {
+        	"id": 6,
+            "character": "很",
+            "pinyin": "hěn",
+            "meanings": ["very"]
+        },
+        {
+        	"id": 7,
+            "character": "呢",
+            "pinyin": "ne",
+            "meanings": ["a modal particle used for elliptical questions"]
+        },
+        {
+        	"id": 8,
+            "character": "也",
+            "pinyin": "yě",
+            "meanings": ["also", "too"]
+        },
+        {
+        	"id": 9,
+            "character": "我",
+            "pinyin": "wǒ",
+            "meanings": ["I", "me", "myself"]
         }
     ]
 }
