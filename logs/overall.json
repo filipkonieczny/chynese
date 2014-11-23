@@ -1,8 +1,8 @@
 {
-    "total_characters": 0,
-    "times_taken": 0,
     "last_taken_date": "",
-    "times_answered_correctly": 0,
+    "success_rate": "00.00%",
     "times_answered_incorrectly": 0,
-    "success_rate": 0
+    "total_characters": 0,
+    "times_answered_correctly": 0,
+    "times_taken": 0
 }
