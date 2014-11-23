@@ -1,83 +1,108 @@
 [
     {
-        "id": 1,
-        "character": "你",
-        "pinyin": "nǐ",
-        "meanings": ["you"],
-        "times_answered_correctly": 0,
-        "times_answered_incorrectly": 0,
-        "success_rate": 0
-    },
+        "meanings": [
+            "you"
+        ], 
+        "pinyin": "n\u01d0", 
+        "character": "\u4f60", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 1
+    }, 
     {
-        "id": 2,
-        "character": "好",
-        "pinyin": "hǎo",
-        "meanings": ["good", "well", "fine", "OK"],
-        "times_answered_correctly": 0,
-        "times_answered_incorrectly": 0,
-        "success_rate": 0
-    },
+        "meanings": [
+            "good", 
+            "well", 
+            "fine", 
+            "OK"
+        ], 
+        "pinyin": "h\u01ceo", 
+        "character": "\u597d", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 2
+    }, 
     {
-        "id": 3,
-        "character": "你好",
-        "pinyin": "nǐ hǎo",
-        "meanings": ["hi", "hello"],
-        "times_answered_correctly": 0,
-        "times_answered_incorrectly": 0,
-        "success_rate": 0
-    },
+        "meanings": [
+            "hi", 
+            "hello"
+        ], 
+        "pinyin": "n\u01d0 h\u01ceo", 
+        "character": "\u4f60\u597d", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 3
+    }, 
     {
-        "id": 4,
-        "character": "吗",
-        "pinyin": "ma",
-        "meanings": ["particle used for a question expecting a yes-no answer"],
-        "times_answered_correctly": 0,
-        "times_answered_incorrectly": 0,
-        "success_rate": 0
-    },
+        "meanings": [
+            "particle used for a question expecting a yes-no answer"
+        ], 
+        "pinyin": "ma", 
+        "character": "\u5417", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 4
+    }, 
     {
-        "id": 5,
-        "character": "你好吗",
-        "pinyin": "nǐ hǎo ma?",
-        "meanings": ["how are you?"],
-        "times_answered_correctly": 0,
-        "times_answered_incorrectly": 0,
-        "success_rate": 0
-    },
+        "meanings": [
+            "how are you?"
+        ], 
+        "pinyin": "n\u01d0 h\u01ceo ma?", 
+        "character": "\u4f60\u597d\u5417", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 5
+    }, 
     {
-        "id": 6,
-        "character": "很",
-        "pinyin": "hěn",
-        "meanings": ["very"],
-        "times_answered_correctly": 0,
-        "times_answered_incorrectly": 0,
-        "success_rate": 0
-    },
+        "meanings": [
+            "very"
+        ], 
+        "pinyin": "h\u011bn", 
+        "character": "\u5f88", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 6
+    }, 
     {
-        "id": 7,
-        "character": "呢",
-        "pinyin": "ne",
-        "meanings": ["a modal particle used for elliptical questions"],
-        "times_answered_correctly": 0,
-        "times_answered_incorrectly": 0,
-        "success_rate": 0
-    },
+        "meanings": [
+            "a modal particle used for elliptical questions"
+        ], 
+        "pinyin": "ne", 
+        "character": "\u5462", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 7
+    }, 
     {
-        "id": 8,
-        "character": "也",
-        "pinyin": "yě",
-        "meanings": ["also", "too"],
-        "times_answered_correctly": 0,
-        "times_answered_incorrectly": 0,
-        "success_rate": 0
-    },
+        "meanings": [
+            "also", 
+            "too"
+        ], 
+        "pinyin": "y\u011b", 
+        "character": "\u4e5f", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 8
+    }, 
     {
-        "id": 9,
-        "character": "我",
-        "pinyin": "wǒ",
-        "meanings": ["I", "me", "myself"],
-        "times_answered_correctly": 0,
-        "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "meanings": [
+            "I", 
+            "me", 
+            "myself"
+        ], 
+        "pinyin": "w\u01d2", 
+        "character": "\u6211", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 9
     }
 ]
