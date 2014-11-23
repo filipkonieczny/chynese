@@ -9,13 +9,15 @@
 # imports
 import json
 import random
-from urllib2 import unquote
+import datetime
 
 
 # globals
 MAX_ANSWERS = 3
 LETTERS = 'abcdefghijklmnopqrstuvwxyz'
-HELLO_MSG = 'Aloha.'
+DATA_FILE = 'data.json'
+LOGS_DIR = 'logs/'
+OVERALL_FILE = '{}overall.json'.format(LOGS_DIR)
 
 
 # functions
@@ -67,10 +69,6 @@ def print_question(index, character_data):
     '''
 
     print '\n'
-
-    bytesquoted = character_data['character'].encode('utf8')
-    unquoted = unquote(bytesquoted)
-    character = unquoted.decode('utf8')
     print "#%d What's the meaning of this character: %s" % (index + 1,
                                                             character_data['character'])
 
@@ -85,7 +83,7 @@ def shuffle_answers(answers):
 
     for i in xrange(len(answers)):
         random_choice = random.randint(0, len(answers) - 1)
-        
+
         currently_shuffled_answer = answers.pop(random_choice)
         if currently_shuffled_answer == correct_answer:
             correct_answer_id = LETTERS[i]
@@ -155,15 +153,8 @@ def save_data(file_name, data):
     '''
     '''
 
-    pass
-
-
-def save_daily_statistics(data):
-    # TODO: documentation
-    '''
-    '''
-
-    pass
+    with open(file_name, 'w') as outfile:
+        json.dump(data, outfile, indent=4)
 
 
 def goodbye_message():
@@ -186,12 +177,12 @@ def main():
 
     hello_message()
 
-    data = load_data('data.json')
+    data = load_data(DATA_FILE)
 
     # encode the character to be displayed
     for i, character_data in enumerate(data):
         print_question(i, character_data)
-        
+
         answers = {}
         correct_answer = character_data['pinyin'] + " - "
         correct_answer += ', '.join(character_data['meanings'])
@@ -200,7 +191,7 @@ def main():
         shuffled_answers = shuffle_answers(answers)
         correct_choice = shuffled_answers[1]
         print_answers(shuffled_answers[0])
-        
+
         user_choice = get_user_choice()
         if evaluate_user_choice(correct_choice, user_choice):
             total_correct += 1
@@ -217,17 +208,31 @@ def main():
     # print statistics for current session
     print_statistics(total_characters, total_correct, total_incorrect)
 
-    # save statistics for current session
-    save_data('data.json', data)
-    
-    # save daily statistics
-    daily_statistics = {}
-    save_daily_statistics(daily_statistics)
+    # save character statistics
+    save_data(DATA_FILE, data)
+
+    # get current time
+    now = str(datetime.datetime.now())[:-7]
+
+    # save session statistics
+    session_statistics = {
+        'total_characters': total_characters,
+        'total_correct': total_correct,
+        'total_incorrect': total_incorrect,
+        'success_rate': "%.2f%%" % ((float(total_correct) / float(total_characters)) * 100)
+    }
+    save_data('{}{}.json'.format(LOGS_DIR, now), session_statistics)
 
     # save overall statistics
-    overall_statistics = load_data('logs/overall.json')
-    save_data('logs/overall.json', overall_statistics)
-    
+    overall_statistics = load_data(OVERALL_FILE)
+    overall_statistics['last_taken_date'] = now
+    overall_statistics['times_taken'] += 1
+    overall_statistics['total_characters'] = total_characters
+    overall_statistics['times_answered_correctly'] += total_correct
+    overall_statistics['times_answered_incorrectly'] += total_incorrect
+    overall_statistics['success_rate'] = "%.2f%%" % ((overall_statistics['times_answered_correctly']) / (float(overall_statistics['times_answered_correctly']) + float(overall_statistics['times_answered_incorrectly'])) * 100)
+    save_data(OVERALL_FILE, overall_statistics)
+
     # goodbye
     goodbye_message()
 
