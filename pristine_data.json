@@ -1,0 +1,83 @@
+[
+    {
+    	"id": 1,
+        "character": "你",
+        "pinyin": "nǐ",
+        "meanings": ["you"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+    	"id": 2,
+        "character": "好",
+        "pinyin": "hǎo",
+        "meanings": ["good", "well", "fine", "OK"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+    	"id": 3,
+        "character": "你好",
+        "pinyin": "nǐ hǎo",
+        "meanings": ["hi", "hello"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+    	"id": 4,
+        "character": "吗",
+        "pinyin": "ma",
+        "meanings": ["particle used for a question expecting a yes-no answer"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+    	"id": 5,
+        "character": "你好吗",
+        "pinyin": "nǐ hǎo ma?",
+        "meanings": ["how are you?"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+    	"id": 6,
+        "character": "很",
+        "pinyin": "hěn",
+        "meanings": ["very"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+    	"id": 7,
+        "character": "呢",
+        "pinyin": "ne",
+        "meanings": ["a modal particle used for elliptical questions"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+    	"id": 8,
+        "character": "也",
+        "pinyin": "yě",
+        "meanings": ["also", "too"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+    	"id": 9,
+        "character": "我",
+        "pinyin": "wǒ",
+        "meanings": ["I", "me", "myself"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    }
+]
