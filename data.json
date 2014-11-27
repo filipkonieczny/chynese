@@ -7,7 +7,7 @@
         "character": "\u4f60", 
         "success_rate": "100.00%", 
         "times_answered_incorrectly": 0, 
-        "times_answered_correctly": 1, 
+        "times_answered_correctly": 2, 
         "id": 1
     }, 
     {
@@ -21,7 +21,7 @@
         "character": "\u597d", 
         "success_rate": "100.00%", 
         "times_answered_incorrectly": 0, 
-        "times_answered_correctly": 1, 
+        "times_answered_correctly": 2, 
         "id": 2
     }, 
     {
@@ -33,7 +33,7 @@
         "character": "\u4f60\u597d", 
         "success_rate": "100.00%", 
         "times_answered_incorrectly": 0, 
-        "times_answered_correctly": 1, 
+        "times_answered_correctly": 2, 
         "id": 3
     }, 
     {
@@ -44,7 +44,7 @@
         "character": "\u5417", 
         "success_rate": "100.00%", 
         "times_answered_incorrectly": 0, 
-        "times_answered_correctly": 1, 
+        "times_answered_correctly": 2, 
         "id": 4
     }, 
     {
@@ -55,7 +55,7 @@
         "character": "\u4f60\u597d\u5417", 
         "success_rate": "100.00%", 
         "times_answered_incorrectly": 0, 
-        "times_answered_correctly": 1, 
+        "times_answered_correctly": 2, 
         "id": 5
     }, 
     {
@@ -66,7 +66,7 @@
         "character": "\u5f88", 
         "success_rate": "100.00%", 
         "times_answered_incorrectly": 0, 
-        "times_answered_correctly": 1, 
+        "times_answered_correctly": 2, 
         "id": 6
     }, 
     {
@@ -77,7 +77,7 @@
         "character": "\u5462", 
         "success_rate": "100.00%", 
         "times_answered_incorrectly": 0, 
-        "times_answered_correctly": 1, 
+        "times_answered_correctly": 2, 
         "id": 7
     }, 
     {
@@ -89,7 +89,7 @@
         "character": "\u4e5f", 
         "success_rate": "100.00%", 
         "times_answered_incorrectly": 0, 
-        "times_answered_correctly": 1, 
+        "times_answered_correctly": 2, 
         "id": 8
     }, 
     {
@@ -102,7 +102,188 @@
         "character": "\u6211", 
         "success_rate": "100.00%", 
         "times_answered_incorrectly": 0, 
-        "times_answered_correctly": 1, 
+        "times_answered_correctly": 2, 
         "id": 9
+    }, 
+    {
+        "meanings": [
+            "busy"
+        ], 
+        "pinyin": "m\u00e1ng", 
+        "character": "\u5fd9", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 10
+    }, 
+    {
+        "meanings": [
+            "dad"
+        ], 
+        "pinyin": "b\u00e0ba", 
+        "character": "\u7238\u7238", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 11
+    }, 
+    {
+        "meanings": [
+            "mom"
+        ], 
+        "pinyin": "m\u0101ma", 
+        "character": "\u5988\u5988", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 12
+    }, 
+    {
+        "meanings": [
+            "they", 
+            "them"
+        ], 
+        "pinyin": "t\u0101men", 
+        "character": "\u4ed6\u4eec", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 13
+    }, 
+    {
+        "meanings": [
+            "he", 
+            "him"
+        ], 
+        "pinyin": "t\u0101", 
+        "character": "\u4ed6", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 14
+    }, 
+    {
+        "meanings": [
+            "used after pronouns \u6211, \u4f60, \u4ed6 or certain nouns to denote plural"
+        ], 
+        "pinyin": "men", 
+        "character": "\u4eec", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 15
+    }, 
+    {
+        "meanings": [
+            "both", 
+            "all"
+        ], 
+        "pinyin": "d\u014du", 
+        "character": "\u90fd", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 16
+    }, 
+    {
+        "meanings": [
+            "not", 
+            "no"
+        ], 
+        "pinyin": "b\u00f9", 
+        "character": "\u4e0d", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 17
+    }, 
+    {
+        "meanings": [
+            "male"
+        ], 
+        "pinyin": "n\u00e1n", 
+        "character": "\u7537", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 18
+    }, 
+    {
+        "meanings": [
+            "friend"
+        ], 
+        "pinyin": "p\u00e9ngyou", 
+        "character": "\u670b\u53cb", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 19
+    }, 
+    {
+        "meanings": [
+            "older brother"
+        ], 
+        "pinyin": "g\u0113ge", 
+        "character": "\u54e5\u54e5", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 20
+    }, 
+    {
+        "meanings": [
+            "to want"
+        ], 
+        "pinyin": "y\u00e0o", 
+        "character": "\u8981", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 21
+    }, 
+    {
+        "meanings": [
+            "coffee"
+        ], 
+        "pinyin": "k\u0101f\u0113i", 
+        "character": "\u5496\u5561", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 22
+    }, 
+    {
+        "meanings": [
+            "younger brother"
+        ], 
+        "pinyin": "d\u00ecdi", 
+        "character": "\u5f1f\u5f1f", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 23
+    }, 
+    {
+        "meanings": [
+            "we", 
+            "us"
+        ], 
+        "pinyin": "w\u01d2men", 
+        "character": "\u6211\u4eec", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 24
+    }, 
+    {
+        "meanings": [
+            "to drink"
+        ], 
+        "pinyin": "h\u0113", 
+        "character": "\u559d", 
+        "success_rate": "100.00%", 
+        "times_answered_incorrectly": 0, 
+        "times_answered_correctly": 1, 
+        "id": 25
     }
 ]

@@ -79,5 +79,149 @@
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
         "success_rate": 0
+    },
+    {
+        "id": 10,
+        "character": "忙",
+        "pinyin": "máng",
+        "meanings": ["busy"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 11,
+        "character": "爸爸",
+        "pinyin": "bàba",
+        "meanings": ["dad"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 12,
+        "character": "妈妈",
+        "pinyin": "māma",
+        "meanings": ["mom"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 13,
+        "character": "他们",
+        "pinyin": "tāmen",
+        "meanings": ["they", "them"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 14,
+        "character": "他",
+        "pinyin": "tā",
+        "meanings": ["he", "him"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 15,
+        "character": "们",
+        "pinyin": "men",
+        "meanings": ["used after pronouns 我, 你, 他 or certain nouns to denote plural"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 16,
+        "character": "都",
+        "pinyin": "dōu",
+        "meanings": ["both", "all"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 17,
+        "character": "不",
+        "pinyin": "bù",
+        "meanings": ["not", "no"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 18,
+        "character": "男",
+        "pinyin": "nán",
+        "meanings": ["male"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 19,
+        "character": "朋友",
+        "pinyin": "péngyou",
+        "meanings": ["friend"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 20,
+        "character": "哥哥",
+        "pinyin": "gēge",
+        "meanings": ["older brother"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 21,
+        "character": "要",
+        "pinyin": "yào",
+        "meanings": ["to want"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 22,
+        "character": "咖啡",
+        "pinyin": "kāfēi",
+        "meanings": ["coffee"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 23,
+        "character": "弟弟",
+        "pinyin": "dìdi",
+        "meanings": ["younger brother"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 24,
+        "character": "我们",
+        "pinyin": "wǒmen",
+        "meanings": ["we", "us"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
+    },
+    {
+        "id": 25,
+        "character": "喝",
+        "pinyin": "hē",
+        "meanings": ["to drink"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0
     }
 ]
