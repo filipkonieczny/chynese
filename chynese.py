@@ -69,8 +69,10 @@ def print_question(index, character_data):
     '''
 
     print '\n'
-    print "#%d What's the meaning of this character: %s" % (index + 1,
-                                                            character_data['character'])
+    print "#%d What's the meaning of this character?: %s" % (
+          index + 1,
+          character_data['character']
+    )
 
 
 def shuffle_answers(answers):
