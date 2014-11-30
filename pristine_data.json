@@ -6,7 +6,8 @@
         "meanings": ["you"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 01"
     },
     {
     	"id": 2,
@@ -15,7 +16,8 @@
         "meanings": ["good", "well", "fine", "OK"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 01"
     },
     {
     	"id": 3,
@@ -24,7 +26,8 @@
         "meanings": ["hi", "hello"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 01"
     },
     {
     	"id": 4,
@@ -33,7 +36,8 @@
         "meanings": ["particle used for a question expecting a yes-no answer"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 01"
     },
     {
     	"id": 5,
@@ -42,7 +46,8 @@
         "meanings": ["how are you?"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 01"
     },
     {
     	"id": 6,
@@ -51,7 +56,8 @@
         "meanings": ["very"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 01"
     },
     {
     	"id": 7,
@@ -60,7 +66,8 @@
         "meanings": ["a modal particle used for elliptical questions"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 01"
     },
     {
     	"id": 8,
@@ -69,7 +76,8 @@
         "meanings": ["also", "too"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 01"
     },
     {
     	"id": 9,
@@ -78,7 +86,8 @@
         "meanings": ["I", "me", "myself"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 01"
     },
     {
         "id": 10,
@@ -87,7 +96,8 @@
         "meanings": ["busy"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 11,
@@ -96,7 +106,8 @@
         "meanings": ["dad"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 12,
@@ -105,7 +116,8 @@
         "meanings": ["mom"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 13,
@@ -114,7 +126,8 @@
         "meanings": ["they", "them"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 14,
@@ -123,7 +136,8 @@
         "meanings": ["he", "him"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 15,
@@ -132,7 +146,8 @@
         "meanings": ["used after pronouns 我, 你, 他 or certain nouns to denote plural"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 16,
@@ -141,7 +156,8 @@
         "meanings": ["both", "all"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 17,
@@ -150,7 +166,8 @@
         "meanings": ["not", "no"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 18,
@@ -159,7 +176,8 @@
         "meanings": ["male"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 19,
@@ -168,7 +186,8 @@
         "meanings": ["friend"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 20,
@@ -177,7 +196,8 @@
         "meanings": ["older brother"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 21,
@@ -186,7 +206,8 @@
         "meanings": ["to want"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 22,
@@ -195,7 +216,8 @@
         "meanings": ["coffee"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 23,
@@ -204,7 +226,8 @@
         "meanings": ["younger brother"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 24,
@@ -213,7 +236,8 @@
         "meanings": ["we", "us"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
     },
     {
         "id": 25,
@@ -222,6 +246,187 @@
         "meanings": ["to drink"],
         "times_answered_correctly": 0,
         "times_answered_incorrectly": 0,
-        "success_rate": 0
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 02"
+    },
+    {
+        "id": 26,
+        "character": "她",
+        "pinyin": "tā",
+        "meanings": ["she", "her"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 27,
+        "character": "是",
+        "pinyin": "shì",
+        "meanings": ["to be"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 28,
+        "character": "哪",
+        "pinyin": "nǎ",
+        "meanings": ["which"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 29,
+        "character": "国",
+        "pinyin": "guó",
+        "meanings": ["county", "nation"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 30,
+        "character": "人",
+        "pinyin": "rén",
+        "meanings": ["people", "person"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 31,
+        "character": "那",
+        "pinyin": "nà",
+        "meanings": ["that"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 32,
+        "character": "谁",
+        "pinyin": "shéi",
+        "meanings": ["who", "whom"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 33,
+        "character": "老师",
+        "pinyin": "lǎoshī",
+        "meanings": ["teacher"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 34,
+        "character": "都",
+        "pinyin": "dōu",
+        "meanings": ["both", "all"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 35,
+        "character": "中国",
+        "pinyin": "zhōngguó",
+        "meanings": ["China"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 36,
+        "character": "您",
+        "pinyin": "nín",
+        "meanings": ["you(polite form)"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 37,
+        "character": "这",
+        "pinyin": "zhè",
+        "meanings": ["this"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 38,
+        "character": "他",
+        "pinyin": "tā",
+        "meanings": ["he", "him"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 39,
+        "character": "外语",
+        "pinyin": "wàiyǔ",
+        "meanings": ["foreign language"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 40,
+        "character": "你",
+        "pinyin": "nǐ",
+        "meanings": ["you"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 41,
+        "character": "医生",
+        "pinyin": "yīshēng",
+        "meanings": ["doctor", "physician"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 42,
+        "character": "奶奶",
+        "pinyin": "nǎinai",
+        "meanings": ["grandmother on the father's side"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
+    },
+    {
+        "id": 43,
+        "character": "外婆",
+        "pinyin": "wàipó",
+        "meanings": ["grandmother on the mother's side"],
+        "times_answered_correctly": 0,
+        "times_answered_incorrectly": 0,
+        "success_rate": 0,
+        "character_set": "New Practical Chinese Reader - Book 1, Lesson 03"
     }
 ]
