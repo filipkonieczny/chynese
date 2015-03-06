@@ -22,8 +22,9 @@ OVERALL_FILE = '{}overall.json'.format(LOGS_DIR)
 
 # functions
 def hello_message():
-# TODO: documentation
     '''
+    Hello, world!
+
     '''
 
     print "\n"
@@ -32,8 +33,9 @@ def hello_message():
 
 
 def load_data(file_name):
-    # TODO: documentation
     '''
+    Open data file, convert it to json and return.
+
     '''
 
     data_file = open(file_name).read()
@@ -68,10 +70,9 @@ def print_question(index, character_data):
     '''
     '''
 
-    print '\n'
-    print "#%d What's the meaning of this character?: %s" % (
-          index + 1,
-          character_data['character']
+    print "\n#{} What's the meaning of this character? {}".format(
+        index + 1,
+        character_data['character']
     )
 
 
@@ -103,8 +104,7 @@ def print_answers(answers):
     answers_keys = sorted(answers.keys())
 
     for key in answers_keys:
-        print "%s) %s" % (key, answers[key])
-
+        print '{}) {}'.format(key, answers[key])
     print "\n"
 
 
